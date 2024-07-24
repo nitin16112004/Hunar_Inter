@@ -1,2 +1,4 @@
 # Hunar_Inter
-My Hunar Inter task submission
+This Repository contains Projects related to my Internship
+
+1. Capcha Generator
